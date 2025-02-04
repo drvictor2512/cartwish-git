@@ -1,2 +1,2 @@
 # cartwish-git
-Cartwish project for learning git
+Cartwish project for lsecond commit
